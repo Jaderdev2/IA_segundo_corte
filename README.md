@@ -3,11 +3,17 @@
 <div align="center">
   <img width="650" alt="logo_unipacifico" src="https://github.com/user-attachments/assets/b67b5a9a-0ac4-4bcf-b569-bbc486818d81" />
   <br><br>
-  
+
   ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
   ![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-green)
   ![NumPy](https://img.shields.io/badge/NumPy-1.24%2B-orange)
   ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
+
+  <br><br>
+
+  <a href="https://colab.research.google.com/drive/1r4mgqm-Fzd4rqErn_x3R9zZstbe6fdqb?usp=sharing" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir en Colab"/>
+  </a>
 </div>
 
 ---
