@@ -10,6 +10,12 @@
   ![Frecuencias](https://img.shields.io/badge/Distribución%20de%20Frecuencias-orange)
   ![Análisis](https://img.shields.io/badge/Análisis%20de%20Datos-Académico-purple)
 
+  <br><br>
+
+  <a href="https://docs.google.com/spreadsheets/d/16lnj4OlpPKZ4Huf_eRVvk3ibGDo6YrJSIUhBUnsrJjU/edit?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Sheets-Archivo%20Excel-34A853?logo=googlesheets&logoColor=white" />
+  </a>
+
 </div>
 
 ---
